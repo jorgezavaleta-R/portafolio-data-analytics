@@ -1,11 +1,14 @@
 statsbombpy>=26.2.1
+pandas>=2.2
+numpy>=2.2
+ast>=2.2 
+
 nbformat>=5.10
 nbclient>=0.10
 python-pptx>=1.0
 pillow>=11.1
 matplotlib>=3.9
-numpy>=2.2
-pandas>=2.2
+
 mplsoccer>=1.4
 requests>=2.32
 scikit-learn>=1.5
